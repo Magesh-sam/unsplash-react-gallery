@@ -7,7 +7,7 @@ import {createApi} from "unsplash-js"
 
 export default function SearchPhotos() {
 const unsplash = new createApi({
-    accessKey : "zPx6ctJfpnxdbiZsaWJcHP7B5Mzt9e8aPv5NkXUoGu0",
+    accessKey : "Your API key",
     
    
 });
